@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Data &amp; Activities</string>
+    <string name="person_activity">Person Activity</string>
+    <string name="pet_activity">Pet Activity</string>
+</resources>
